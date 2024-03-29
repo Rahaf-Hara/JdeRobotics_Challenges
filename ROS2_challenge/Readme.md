@@ -7,7 +7,7 @@ This repository contains solutions to a two-part ROS2 challenge focused on funda
 The first part of the challenge involves creating a simple ROS2 publisher-subscriber system. The publisher node publishes the message "Hello! ROS2 is fun", and the subscriber node listens to this message and prints it. 
 
 - **Folder:** `hello_ros2`
-- [Detailed instructions and setup guide](hello_ros2/README.md)
+- [Detailed instructions and setup guide](ROS2_challenge/hello_ros2/README.md)
 
 ## Part 2: ROS2 Navigation2
 
