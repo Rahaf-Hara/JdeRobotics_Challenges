@@ -12,9 +12,9 @@ This package demonstrates a simple ROS2 publisher-subscriber interaction with th
     cd ~/ros2_ws/src
     ```
 
-2. **Clone this package into your ROS2 workspace:**
+2. **Clone the entire repository into your ROS2 workspace:**
     ```bash
-    git clone <repository-url> hello_ros2
+    git clone https://github.com/Rahaf-Hara/JdeRobotics_Challenges.git  
     ```
 
 3. **Build the package using `colcon`:**
