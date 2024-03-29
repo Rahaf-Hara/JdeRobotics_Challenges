@@ -1,0 +1,21 @@
+<sdf version="1.5">
+  <model name="MaleVisitorPhone">
+    <link name="link">
+      <pose>4.167496 0.327632 0.334955 -0.011729 -0.043149 3.135400</pose>
+      <visual name="visual">
+        <geometry>
+          <mesh><uri>model://MaleVisitorPhone/meshes/MaleVisitorPhoneIdle.dae</uri></mesh>
+        </geometry>
+      </visual>
+      <collision name="collision">
+        <geometry>
+          <mesh><uri>model://MaleVisitorPhone/meshes/MaleVisitorPhoneIdle.dae</uri></mesh>
+        </geometry>
+        <!--<box>
+          <size>0.1 0.1 0.1</size>
+        </box>-->
+      </collision>
+    </link>
+  </model>
+</sdf>
+

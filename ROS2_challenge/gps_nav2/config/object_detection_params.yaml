@@ -1,0 +1,5 @@
+object_detection:
+
+  weight_path: "yolov8n.pt"
+  conf_thresh: 0.65
+  iou_thresh: 0.7

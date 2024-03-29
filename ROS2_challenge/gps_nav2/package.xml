@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>gps_nav2</name>
+  <version>0.0.0</version>
+  <description>The gps_nav2 package enhances ROS2-based robotic navigation by integrating GPS waypoint navigation with object detection capabilities.</description>
+  <maintainer email="rahafy34@gmail.com">Rahaf Abu Hara</maintainer>
+  <maintainer email="pedro.gonzalez@eia.edu.co">pepisg</maintainer>
+  <maintainer email="stevenmacenski@gmail.com">Steve Macenski</maintainer>
+  <license>Apache-2.0</license>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <exec_depend>navigation2</exec_depend>
+  <exec_depend>robot_localization</exec_depend>
+  <exec_depend>mapviz</exec_depend>
+  <exec_depend>mapviz_plugins</exec_depend>
+  <exec_depend>tile_map</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
