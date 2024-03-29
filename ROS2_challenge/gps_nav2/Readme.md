@@ -14,7 +14,7 @@ This ROS2 package combines GPS-based navigation with object detection and identi
 Clone this package into your ROS2 workspace and build it with colcon:
 ```bash
 cd ~/ros2_ws/src
-git clone <repository-url>
+git clone https://github.com/Rahaf-Hara/JdeRobotics_Challenges.git  
 cd ~/ros2_ws
 colcon build --symlink-install
 ```
