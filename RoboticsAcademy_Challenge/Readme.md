@@ -7,7 +7,7 @@ This challenge involved installing Robotics-Academy on my machine and solving an
 - **Follow Line Exercise:** The objective was to program a robot to autonomously follow a line within a simulated environment. A crucial part of the challenge also involved fine-tuning the PID (Proportional, Integral, Derivative) parameters to ensure stable and accurate line-following behavior. 
 
 ## Results
-You can find my solution code in the `Solution` folder. For a demonstration of the exercise in action, check out this 
+You can find my solution code in the `Solution` folder. For a demonstration of the exercise, check out this 
 [![Follow Line Exercise Solution](http://img.youtube.com/vi/cS06bV08THM/0.jpg)](http://www.youtube.com/watch?v=cS06bV08THM "Follow Line Exercise Solution")
 
 
